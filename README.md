@@ -1,8 +1,12 @@
-# ROS-backend
+# Features
+- Avaiable for RHEL OS
+- Works on public cloud provider. Supports **AWS** (**Azure** in future) 
+
+# ROS Architecture
+![ROS Architecture Diagram drawio](https://user-images.githubusercontent.com/61837065/172105093-14e3ab86-bf37-431f-b694-467b7446aeb4.png)
+
 
 Backend for Resource Optimization Service
-
-
 ## Getting Started
 
 This project uses pipenv to manage the development and production environments.
